@@ -1,4 +1,0 @@
-blog
-====
-
-Spark's Site
